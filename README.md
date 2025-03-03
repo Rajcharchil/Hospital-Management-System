@@ -30,7 +30,7 @@ Before you begin, ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/all3n2601/HMSMern.git
+   git clone https://github.com/Rajcharchil/Hospital-Management-System
    ```
 2. **Navigate to the project directory:
 
