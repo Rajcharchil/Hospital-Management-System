@@ -64,5 +64,5 @@ This project is licensed under the MIT License.
 Thanks to the MERN and Redux TailwindCSS communities for their amazing tools and resources.
 
 ## Contact
-For any inquiries or issues, please contact [allsurej@gmail.com].
+For any inquiries or issues, please contact [rajcharchil555@gmail.com].
 
